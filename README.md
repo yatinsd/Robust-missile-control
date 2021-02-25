@@ -1,4 +1,4 @@
-# Autonomous Control Systems Assignment - Autonomous Vehicle Dynamics and Control, Cranfield University
+# Autonomous Control Systems Assignment 
 
 <p align=center>
 <img src="https://github.com/JohannesAutenrieb/RobustMissileControl/blob/master/img/missile.JPG" alt="Statemachine_main" height=500px>
